@@ -1,0 +1,1 @@
+This is a Chrome Extension that helps keep track of leads. You can use it to save different links from tabs and come back to access it later.
